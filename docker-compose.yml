@@ -33,7 +33,7 @@ services:
       - "mysql"
     volumes:
       - "wp:/var/www/html:rw"
-      - "./bin/install-wp.sh:/usr/local/bin/install-wp:ro"
+      - "./bin/install-wp.sh:/usr/local/bin/install-wp"
 volumes:
   wp: {}
   db: {}
