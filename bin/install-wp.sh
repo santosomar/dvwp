@@ -5,7 +5,7 @@ wp core install \
   --title="Damn Vulnerable WordPress" \
   --admin_user="admin" \
   --admin_password="admin" \
-  --admin_email="admin@example.com" \
+  --admin_email="admin@omarsucks.com" \
   --url="http://127.0.0.1:31337/" \
   --skip-email
 
